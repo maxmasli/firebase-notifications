@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121672952940",
+    "project_id": "fir-test-push-c7d32",
+    "storage_bucket": "fir-test-push-c7d32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121672952940:android:50a9613253316eb10dbc49",
+        "android_client_info": {
+          "package_name": "masli.prof.firebase_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121672952940-9gs31thtf2jr6dqosgnshe95fdg9icdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9isPB3QVgZV49v3wmgGzZRVLvDkAmCyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121672952940-9gs31thtf2jr6dqosgnshe95fdg9icdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
